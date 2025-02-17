@@ -1,0 +1,1 @@
+Ce projet necessite le téléchargement de l'exécutable suivant afin de faire l'alignement des séquences enzymatiques : http://www.clustal.org/clustal2/
